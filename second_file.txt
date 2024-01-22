@@ -1,1 +1,1 @@
-second file added
+second file added --- Updating the secondary file on the remote directory from the first project
